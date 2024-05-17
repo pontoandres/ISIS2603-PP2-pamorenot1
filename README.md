@@ -1,5 +1,10 @@
 # Pp2
 
+Nombre: Ponto Andres Moreno
+Codigo: 202224525
+usuario: pa.morenot1
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.7.
 
 ## Development server
